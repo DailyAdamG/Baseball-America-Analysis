@@ -1,0 +1,6 @@
+SELECT TeamRanks.YearID, TeamRanks.TeamName, TeamRanks.TeamRank, SUM(PlayerValue.WARYearOne) AS WARYearOne, SUM(PlayerValue.WARYearTwo) AS WARYearTwo, 
+SUM(PlayerValue.WARYearThree) AS WARYearThree, SUM(PlayerValue.WARYearFour) AS WARYearFour, SUM(PlayerValue.WARYearFive) AS WARYearFive, SUM(PlayerValue.WARYearSix) AS WARYearSix 
+FROM TeamRanks
+INNER JOIN PlayerValue
+ON TeamRanks.YearID = PlayerValue.YearID AND TeamRanks.TeamID = PlayerValue.TeamID
+GROUP BY TeamRanks.YearID, TeamRanks.TeamName, TeamRanks.TeamRank

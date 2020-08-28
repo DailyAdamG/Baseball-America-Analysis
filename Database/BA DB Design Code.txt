@@ -1,0 +1,57 @@
+People
+-
+PlayerID INT PK FK -< PlayerRanks.PlayerID
+FirstName VARCHAR
+LastName VARCHAR
+BirthMonth INT
+BirthDay INT
+BirthYear INT
+Bats VARCHAR
+Throws VARCHAR
+Ht INT
+AmateurType VARCHAR
+AmateurCountry VARCHAR
+FanGraphsID VARCHAR
+
+PlayerRanks
+-
+PlayerID INT PK FK
+YearID INT PK FK >- TeamRanks.YearID
+TeamID VARCHAR FK >- TeamRanks.TeamID
+MLBRank INT
+PlayerRank INT
+HighestLevel VARCHAR
+Grade INT
+Risk VARCHAR
+
+PlayerValue
+-
+PlayerID INT  PK FK >- People.PlayerID 
+YearID INT PK FK >- TeamRanks.YearID
+TeamID VARCHAR FK >- TeamRanks.TeamID
+WARYearOne FLOAT
+WARYearTwo FLOAT
+WARYearThree FLOAT
+WARYearFour FLOAT
+WARYearFive FLOAT
+WARYearSix FLOAT
+
+Positions
+-
+PlayerID INT PK FK >- People.PlayerID
+YearID INT PK FK >- TeamRanks.YearID
+TeamID VARCHAR FK >- TeamRanks.TeamID
+Pos VARCHAR PK
+
+TeamRanks
+-
+YearID INT PK
+TeamID VARCHAR PK
+FranchID VARCHAR FK >- TeamsFranchises.FranchID
+TeamRank INT
+TeamName VARCHAR
+
+TeamsFranchises
+-
+FranchID VARCHAR PK 
+FranchName VARCHAR
