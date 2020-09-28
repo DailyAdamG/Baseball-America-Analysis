@@ -1,99 +1,99 @@
 YearID,TeamName,TeamRank,WARYearOne,WARYearTwo,WARYearThree,WARYearFour,WARYearFive,WARYearSix
 2001,Anaheim Angels,25,1.3,2.8,3.6,8.6,13.8,15.2
-2001,Arizona Diamondbacks,29,0.5,4.2,8.2,3,16.9,15.5
+2001,Arizona Diamondbacks,29,0.5,4.2,8.2,3.0,16.9,15.5
 2001,Atlanta Braves,5,1.9,1.8,8.4,3.4,11.6,6.4
-2001,Baltimore Orioles,27,-2.22045E-16,1.1,3.7,9.6,15.9,6.3
-2001,Boston Red Sox,24,0.1,4.2,1.3,1,8.6,7.1
-2001,Chicago Cubs,2,-0.1,4.5,10.9,11.8,7,11.5
+2001,Baltimore Orioles,27,0.0,1.1,3.7,9.6,15.9,6.3
+2001,Boston Red Sox,24,0.1,4.2,1.3,1.0,8.6,7.1
+2001,Chicago Cubs,2,-0.1,4.5,10.9,11.8,7.0,11.5
 2001,Chicago White Sox,1,3.3,4.7,2.4,7.8,7.1,8.3
 2001,Cincinnati Reds,3,4.7,8.8,2.1,8.5,10.2,4.6
-2001,Cleveland Indians,26,3.2,7,6.4,6.5,17.2,16.4
-2001,Colorado Rockies,16,3,-0.4,8.4,7,9.5,22.6
+2001,Cleveland Indians,26,3.2,7.0,6.4,6.5,17.2,16.4
+2001,Colorado Rockies,16,3.0,-0.4,8.4,7.0,9.5,22.6
 2001,Detroit Tigers,18,-1.3,2.4,1.1,5.6,7.5,5.8
-2001,Florida Marlins,9,-0.2,1.1,5,3.9,8.3,11.9
-2001,Houston Astros,10,4.1,9.8,15.2,16.6,20,15.6
-2001,Kansas City Royals,14,-0.2,1.1,4.6,2.6,1.2,0
-2001,Los Angeles Dodgers,28,0,-1.1,-0.9,-0.2,1.6,3.2
+2001,Florida Marlins,9,-0.2,1.1,5.0,3.9,8.3,11.9
+2001,Houston Astros,10,4.1,9.8,15.2,16.6,20.0,15.6
+2001,Kansas City Royals,14,-0.2,1.1,4.6,2.6,1.2,0.0
+2001,Los Angeles Dodgers,28,0.0,-1.1,-0.9,-0.2,1.6,3.2
 2001,Milwaukee Brewers,30,-0.4,2.7,3.2,8.5,6.2,9.4
-2001,Minnesota Twins,15,-1.66533E-16,8,10.1,8.4,9.7,11.9
+2001,Minnesota Twins,15,0.0,8.0,10.1,8.4,9.7,11.9
 2001,Montreal Expos,21,0.5,3.3,5.1,8.1,13.5,11.1
 2001,New York Mets,20,2.2,3.9,2.6,1.6,-0.7,2.3
 2001,New York Yankees,7,-0.8,7.7,12.5,13.7,10.1,21.1
-2001,Oakland Athletics,11,0.4,7,4.9,4.9,8,14.3
+2001,Oakland Athletics,11,0.4,7.0,4.9,4.9,8.0,14.3
 2001,Philadelphia Phillies,12,4.6,3.7,10.2,15.1,21.1,21.2
-2001,Pittsburgh Pirates,19,1,1.3,4.3,6.3,6.4,0.6
+2001,Pittsburgh Pirates,19,1.0,1.3,4.3,6.3,6.4,0.6
 2001,San Diego Padres,8,1.1,4.5,6.8,13.1,8.4,5.6
 2001,San Francisco Giants,22,-2.1,1.1,4.3,3.5,2.5,2.9
-2001,Seattle Mariners,4,7.7,9.7,15,9.4,8.6,7.9
+2001,Seattle Mariners,4,7.7,9.7,15.0,9.4,8.6,7.9
 2001,St. Louis Cardinals,23,7.2,5.7,9.2,7.8,7.6,8.3
 2001,Tampa Bay Devil Rays,6,1.1,5.7,11.5,14.5,7.2,10.4
-2001,Texas Rangers,13,0.2,2.3,8.3,18.2,14,10.1
-2001,Toronto Blue Jays,17,2,3.5,7.2,16.9,16.4,16
-2002,Anaheim Angels,17,2.5,4.5,8,13.7,15.2,18.2
-2002,Arizona Diamondbacks,23,0,9.8,3,17.3,16,9.1
-2002,Atlanta Braves,7,-0.4,0.2,-1,5.6,4.3,9.8
+2001,Texas Rangers,13,0.2,2.3,8.3,18.2,14.0,10.1
+2001,Toronto Blue Jays,17,2.0,3.5,7.2,16.9,16.4,16.0
+2002,Anaheim Angels,17,2.5,4.5,8.0,13.7,15.2,18.2
+2002,Arizona Diamondbacks,23,0.0,9.8,3.0,17.3,16.0,9.1
+2002,Atlanta Braves,7,-0.4,0.2,-1.0,5.6,4.3,9.8
 2002,Baltimore Orioles,29,-0.2,-0.1,4.9,3.3,3.9,8.3
-2002,Boston Red Sox,28,2.4,1,1.8,5.3,8.5,8.2
-2002,Chicago Cubs,1,2.8,19.2,13,18,8.4,8.1
+2002,Boston Red Sox,28,2.4,1.0,1.8,5.3,8.5,8.2
+2002,Chicago Cubs,1,2.8,19.2,13.0,18.0,8.4,8.1
 2002,Chicago White Sox,9,1.8,2.9,7.5,6.1,7.8,5.7
 2002,Cincinnati Reds,14,4.2,-1.1,3.9,2.1,8.1,4.8
 2002,Cleveland Indians,20,2.8,3.9,8.5,16.5,13.4,15.1
 2002,Colorado Rockies,24,1.7,3.9,2.3,7.6,19.2,17.2
-2002,Detroit Tigers,18,0.6,-1,1.7,1.1,0.8,4.9
+2002,Detroit Tigers,18,0.6,-1.0,1.7,1.1,0.8,4.9
 2002,Florida Marlins,10,1.3,5.4,4.5,8.8,11.8,13.4
 2002,Houston Astros,3,2.9,9.6,8.7,15.4,9.1,1.1
 2002,Kansas City Royals,21,2.2,6.8,0.2,2.4,-0.5,-0.3
-2002,Los Angeles Dodgers,25,0,-0.4,-0.9,1.6,3.3,2.5
+2002,Los Angeles Dodgers,25,0.0,-0.4,-0.9,1.6,3.3,2.5
 2002,Milwaukee Brewers,26,-2.4,0.6,0.4,5.3,5.6,11.4
 2002,Minnesota Twins,6,4.6,2.2,7.1,8.5,14.6,8.1
-2002,Montreal Expos,16,2.4,4.5,7.9,10.8,11,13.2
+2002,Montreal Expos,16,2.4,4.5,7.9,10.8,11.0,13.2
 2002,New York Mets,27,-0.2,3.9,2.8,9.6,12.2,14.9
 2002,New York Yankees,5,-0.2,2.7,4.3,6.5,10.8,-0.8
 2002,Oakland Athletics,19,4.1,5.5,15.6,19.1,18.8,23.3
-2002,Philadelphia Phillies,11,1,7.5,7.8,19,17.4,20.2
+2002,Philadelphia Phillies,11,1.0,7.5,7.8,19.0,17.4,20.2
 2002,Pittsburgh Pirates,22,0.7,0.7,1.9,7.5,4.4,12.3
-2002,San Diego Padres,4,3.4,4.9,11,7.6,10,14
+2002,San Diego Padres,4,3.4,4.9,11.0,7.6,10.0,14.0
 2002,San Francisco Giants,12,1.2,1.5,2.8,6.1,6.2,0.6
-2002,Seattle Mariners,2,0.6,3.5,-1.3,1.4,7,4.2
+2002,Seattle Mariners,2,0.6,3.5,-1.3,1.4,7.0,4.2
 2002,St. Louis Cardinals,30,0.5,2.8,5.3,11.5,6.9,12.3
-2002,Tampa Bay Devil Rays,15,-1,4.4,10.4,7.9,8.8,11.1
-2002,Texas Rangers,8,0.7,7,18.7,17.9,12.6,14.5
+2002,Tampa Bay Devil Rays,15,-1.0,4.4,10.4,7.9,8.8,11.1
+2002,Texas Rangers,8,0.7,7.0,18.7,17.9,12.6,14.5
 2002,Toronto Blue Jays,13,5.2,2.7,7.3,4.5,9.2,17.2
 2003,Anaheim Angels,5,4.3,8.1,9.2,10.6,15.2,18.6
 2003,Arizona Diamondbacks,21,10.3,1.5,13.9,12.4,8.6,11.4
-2003,Atlanta Braves,2,0.6,0.1,7.8,12.9,15,17.3
-2003,Baltimore Orioles,30,1.3,3.9,5,6.3,10.6,6
-2003,Boston Red Sox,27,0.2,1,3.3,13.9,14.2,25
+2003,Atlanta Braves,2,0.6,0.1,7.8,12.9,15.0,17.3
+2003,Baltimore Orioles,30,1.3,3.9,5.0,6.3,10.6,6.0
+2003,Boston Red Sox,27,0.2,1.0,3.3,13.9,14.2,25.0
 2003,Chicago Cubs,3,0.6,0.2,0.9,0.3,3.1,6.2
-2003,Chicago White Sox,15,-0.5,1.1,4.2,1.4,-1,2.5
+2003,Chicago White Sox,15,-0.5,1.1,4.2,1.4,-1.0,2.5
 2003,Cincinnati Reds,24,-2.2,2.2,-1.5,3.7,1.6,4.1
 2003,Cleveland Indians,1,4.8,18.2,31.7,27.3,30.4,23.6
-2003,Colorado Rockies,25,1,1.7,9.8,18.1,19.9,20.8
-2003,Detroit Tigers,12,-0.5,5.2,5,10.2,13,10.4
-2003,Florida Marlins,8,4.5,4.8,11.5,19,13.9,10.9
-2003,Houston Astros,23,5,6.5,9,6.5,1.6,4.2
-2003,Kansas City Royals,26,2.9,3.3,6.3,6.8,5.2,6
+2003,Colorado Rockies,25,1.0,1.7,9.8,18.1,19.9,20.8
+2003,Detroit Tigers,12,-0.5,5.2,5.0,10.2,13.0,10.4
+2003,Florida Marlins,8,4.5,4.8,11.5,19.0,13.9,10.9
+2003,Houston Astros,23,5.0,6.5,9.0,6.5,1.6,4.2
+2003,Kansas City Royals,26,2.9,3.3,6.3,6.8,5.2,6.0
 2003,Los Angeles Dodgers,14,0.1,-1.2,2.5,3.3,7.4,9.3
 2003,Milwaukee Brewers,16,-1.2,2.3,3.4,6.6,14.9,10.8
-2003,Minnesota Twins,4,1.6,8,8.6,13.8,7.5,14.5
-2003,Montreal Expos,29,0.7,-0.6,3.3,3.4,6.2,4
+2003,Minnesota Twins,4,1.6,8.0,8.6,13.8,7.5,14.5
+2003,Montreal Expos,29,0.7,-0.6,3.3,3.4,6.2,4.0
 2003,New York Mets,13,4.4,4.1,12.9,17.5,22.9,19.7
 2003,New York Yankees,17,2.3,7.9,8.8,15.5,12.8,1.3
 2003,Oakland Athletics,22,0.4,6.3,9.4,13.5,13.7,6.9
 2003,Philadelphia Phillies,7,3.8,1.9,10.3,18.9,18.6,23.9
-2003,Pittsburgh Pirates,18,-1,-0.4,6,5.1,8.6,4.4
-2003,San Diego Padres,20,1,4.5,8,13.2,5.2,9.3
+2003,Pittsburgh Pirates,18,-1.0,-0.4,6.0,5.1,8.6,4.4
+2003,San Diego Padres,20,1.0,4.5,8.0,13.2,5.2,9.3
 2003,San Francisco Giants,11,1.9,2.5,5.9,9.7,5.7,8.7
 2003,Seattle Mariners,9,2.3,0.9,0.6,7.2,3.6,7.6
-2003,St. Louis Cardinals,28,1.1,1.3,6,5.2,8,12.1
+2003,St. Louis Cardinals,28,1.1,1.3,6.0,5.2,8.0,12.1
 2003,Tampa Bay Devil Rays,10,2.1,2.2,3.8,1.8,10.9,14.1
-2003,Texas Rangers,19,1.1,5.1,6.3,5,8.5,10.5
-2003,Toronto Blue Jays,6,1,8.3,4.8,11.3,16.4,17
+2003,Texas Rangers,19,1.1,5.1,6.3,5.0,8.5,10.5
+2003,Toronto Blue Jays,6,1.0,8.3,4.8,11.3,16.4,17.0
 2004,Anaheim Angels,3,-0.6,3.4,5.6,7.6,15.5,11.4
 2004,Arizona Diamondbacks,13,-0.6,2.1,4.4,3.5,13.5,3.9
 2004,Atlanta Braves,4,-0.2,7.6,10.7,7.6,13.6,11.3
 2004,Baltimore Orioles,18,3.8,6.1,10.1,15.9,11.7,6.7
-2004,Boston Red Sox,23,1,1.9,14.5,15.1,26.7,21.6
+2004,Boston Red Sox,23,1.0,1.9,14.5,15.1,26.7,21.6
 2004,Chicago Cubs,7,-0.6,-0.4,1.8,9.2,7.1,5.8
 2004,Chicago White Sox,20,0.9,4.1,0.5,-0.5,5.8,4.8
 2004,Cincinnati Reds,26,0.2,1.2,1.8,3.3,5.4,3.3
@@ -101,10 +101,10 @@ YearID,TeamName,TeamRank,WARYearOne,WARYearTwo,WARYearThree,WARYearFour,WARYearF
 2004,Colorado Rockies,15,0.3,6.6,12.5,15.5,14.3,14.6
 2004,Detroit Tigers,22,0.2,5.3,7.2,10.5,7.4,6.4
 2004,Florida Marlins,14,-0.6,-1.1,5.7,4.1,5.8,8.1
-2004,Houston Astros,29,0.2,5.6,5.5,3.8,3.8,2
-2004,Kansas City Royals,19,2.3,3.6,3.6,4,10,10.9
-2004,Los Angeles Dodgers,2,-0.6,1.3,5.1,15,17,22.3
-2004,Milwaukee Brewers,1,1,3.1,5.7,19.7,17.2,15.4
+2004,Houston Astros,29,0.2,5.6,5.5,3.8,3.8,2.0
+2004,Kansas City Royals,19,2.3,3.6,3.6,4.0,10.0,10.9
+2004,Los Angeles Dodgers,2,-0.6,1.3,5.1,15.0,17.0,22.3
+2004,Milwaukee Brewers,1,1.0,3.1,5.7,19.7,17.2,15.4
 2004,Minnesota Twins,5,4.8,7.2,18.1,13.2,21.7,28.4
 2004,Montreal Expos,30,1.2,6.4,4.2,10.3,5.3,0.5
 2004,New York Mets,10,4.7,9.6,7.8,17.2,11.2,4.8
@@ -112,160 +112,160 @@ YearID,TeamName,TeamRank,WARYearOne,WARYearTwo,WARYearThree,WARYearFour,WARYearF
 2004,Oakland Athletics,17,2.2,7.5,16.1,14.2,9.9,6.3
 2004,Philadelphia Phillies,21,1.5,3.2,10.6,8.9,11.1,18.8
 2004,Pittsburgh Pirates,11,1.5,12.1,17.3,16.3,13.2,20.3
-2004,San Diego Padres,25,4.4,2.2,7,3.5,-0.8,0.2
-2004,San Francisco Giants,24,1.3,5,6.5,7.9,8.5,13.1
-2004,Seattle Mariners,12,1.9,1.8,9.7,9,14.7,18.8
-2004,St. Louis Cardinals,28,0.5,1.6,1,7.3,11.6,15.4
+2004,San Diego Padres,25,4.4,2.2,7.0,3.5,-0.8,0.2
+2004,San Francisco Giants,24,1.3,5.0,6.5,7.9,8.5,13.1
+2004,Seattle Mariners,12,1.9,1.8,9.7,9.0,14.7,18.8
+2004,St. Louis Cardinals,28,0.5,1.6,1.0,7.3,11.6,15.4
 2004,Tampa Bay Devil Rays,9,-1.2,4.7,0.7,12.3,10.8,5.1
-2004,Texas Rangers,16,0.8,1.2,5.1,7.5,8.2,9
+2004,Texas Rangers,16,0.8,1.2,5.1,7.5,8.2,9.0
 2004,Toronto Blue Jays,8,5.5,4.7,12.3,19.5,18.1,9.6
 2005,Arizona Diamondbacks,13,0.8,2.5,1.5,12.4,3.9,6.6
-2005,Atlanta Braves,5,8.8,8,8.2,11.2,8.2,19.5
-2005,Baltimore Orioles,25,1,3.4,7.9,8.4,2.4,3.4
-2005,Boston Red Sox,21,-0.3,11.1,15,27.6,20.9,17.7
-2005,Chicago Cubs,10,2.3,4.3,9.8,12.4,10.2,12
-2005,Chicago White Sox,12,4.5,3.7,4.9,5,5.8,10
+2005,Atlanta Braves,5,8.8,8.0,8.2,11.2,8.2,19.5
+2005,Baltimore Orioles,25,1.0,3.4,7.9,8.4,2.4,3.4
+2005,Boston Red Sox,21,-0.3,11.1,15.0,27.6,20.9,17.7
+2005,Chicago Cubs,10,2.3,4.3,9.8,12.4,10.2,12.0
+2005,Chicago White Sox,12,4.5,3.7,4.9,5.0,5.8,10.0
 2005,Cincinnati Reds,23,-0.3,5.2,2.8,5.1,7.5,15.7
 2005,Cleveland Indians,7,0.3,0.8,12.4,7.8,13.5,7.4
-2005,Colorado Rockies,6,5.6,10.8,8.5,7.4,16,11.2
+2005,Colorado Rockies,6,5.6,10.8,8.5,7.4,16.0,11.2
 2005,Detroit Tigers,29,3.7,9.7,10.9,9.6,16.5,15.1
 2005,Florida Marlins,14,1.5,5.8,4.2,5.2,8.2,10.6
-2005,Houston Astros,22,3.6,7,8.9,9.3,15,9.3
-2005,Kansas City Royals,28,-2.3,2,3.4,3.8,0.6,4.9
-2005,Los Angeles Angels of Anaheim,1,2.4,8.5,10.9,17.3,20,11.1
-2005,Los Angeles Dodgers,2,2.4,6.1,15,18.8,21.8,13
-2005,Milwaukee Brewers,3,1.3,2,20,17.8,20.3,27.5
-2005,Minnesota Twins,4,4.9,14,10.4,17.5,24.4,17.4
-2005,New York Mets,19,0.8,-0.6,6.9,3.1,6,7.2
-2005,New York Yankees,24,0.1,9.6,8.4,3.6,7,9.4
+2005,Houston Astros,22,3.6,7.0,8.9,9.3,15.0,9.3
+2005,Kansas City Royals,28,-2.3,2.0,3.4,3.8,0.6,4.9
+2005,Los Angeles Angels of Anaheim,1,2.4,8.5,10.9,17.3,20.0,11.1
+2005,Los Angeles Dodgers,2,2.4,6.1,15.0,18.8,21.8,13.0
+2005,Milwaukee Brewers,3,1.3,2.0,20.0,17.8,20.3,27.5
+2005,Minnesota Twins,4,4.9,14.0,10.4,17.5,24.4,17.4
+2005,New York Mets,19,0.8,-0.6,6.9,3.1,6.0,7.2
+2005,New York Yankees,24,0.1,9.6,8.4,3.6,7.0,9.4
 2005,Oakland Athletics,8,7.2,12.3,14.7,12.9,12.3,16.7
 2005,Philadelphia Phillies,20,3.4,10.8,12.9,15.4,24.4,20.1
-2005,Pittsburgh Pirates,18,7,10.7,15.9,7.7,15.9,10.8
+2005,Pittsburgh Pirates,18,7.0,10.7,15.9,7.7,15.9,10.8
 2005,San Diego Padres,27,0.2,3.3,-1.1,-0.6,1.1,1.8
 2005,San Francisco Giants,17,1.8,4.5,6.8,9.7,15.4,8.3
-2005,Seattle Mariners,11,5,7.5,10.5,14,17.7,15.6
-2005,St. Louis Cardinals,30,-0.6,3.6,6.6,6,8.9,4.8
+2005,Seattle Mariners,11,5.0,7.5,10.5,14.0,17.7,15.6
+2005,St. Louis Cardinals,30,-0.6,3.6,6.6,6.0,8.9,4.8
 2005,Tampa Bay Devil Rays,9,7.5,5.9,8.8,2.2,9.6,8.6
-2005,Texas Rangers,16,4.1,7,12.9,17.6,14,13.4
+2005,Texas Rangers,16,4.1,7.0,12.9,17.6,14.0,13.4
 2005,Toronto Blue Jays,15,4.1,5.9,9.2,7.9,8.3,4.7
 2005,Washington Nationals,26,2.1,2.7,7.8,4.7,-0.3,0.3
 2006,Arizona Diamondbacks,4,4.1,2.9,15.5,9.9,13.7,16.4
 2006,Atlanta Braves,8,0.3,0.9,3.5,10.1,7.1,17.1
-2006,Baltimore Orioles,13,4.1,7.5,7.7,3,2.7,5.3
-2006,Boston Red Sox,7,4.8,11.8,25.9,15,14.6,25.2
+2006,Baltimore Orioles,13,4.1,7.5,7.7,3.0,2.7,5.3
+2006,Boston Red Sox,7,4.8,11.8,25.9,15.0,14.6,25.2
 2006,Chicago Cubs,15,0.8,7.7,11.7,5.8,7.1,6.3
-2006,Chicago White Sox,12,2,2.4,6.5,4.6,8.7,7.6
+2006,Chicago White Sox,12,2.0,2.4,6.5,4.6,8.7,7.6
 2006,Cincinnati Reds,29,2.5,0.9,4.7,8.6,19.7,11.3
-2006,Cleveland Indians,11,1.7,10,5.5,10.8,6,4.6
-2006,Colorado Rockies,9,2,10,7.5,18.9,12.9,9.1
-2006,Detroit Tigers,14,5.2,3,7.9,15.7,14.3,16.1
-2006,Florida Marlins,2,18.1,11.5,20.3,22.4,23.1,17
+2006,Cleveland Indians,11,1.7,10.0,5.5,10.8,6.0,4.6
+2006,Colorado Rockies,9,2.0,10.0,7.5,18.9,12.9,9.1
+2006,Detroit Tigers,14,5.2,3.0,7.9,15.7,14.3,16.1
+2006,Florida Marlins,2,18.1,11.5,20.3,22.4,23.1,17.0
 2006,Houston Astros,20,2.3,7.6,7.1,14.6,10.6,15.6
 2006,Kansas City Royals,23,1.5,3.4,4.4,1.6,3.4,8.5
 2006,Los Angeles Angels of Anaheim,3,6.9,7.6,13.1,18.2,18.4,30.7
-2006,Los Angeles Dodgers,1,6.8,14.6,20,17.6,8.9,15.9
-2006,Milwaukee Brewers,5,1.3,14.9,14.5,18.4,21,22.4
+2006,Los Angeles Dodgers,1,6.8,14.6,20.0,17.6,8.9,15.9
+2006,Milwaukee Brewers,5,1.3,14.9,14.5,18.4,21.0,22.4
 2006,Minnesota Twins,6,4.4,2.1,12.7,10.7,12.8,10.8
 2006,New York Mets,30,-0.6,6.4,3.4,5.9,4.6,10.1
 2006,New York Yankees,17,1.4,-0.3,2.1,6.3,14.7,14.3
-2006,Oakland Athletics,26,2.9,7.3,8,9.2,15,5.6
+2006,Oakland Athletics,26,2.9,7.3,8.0,9.2,15.0,5.6
 2006,Philadelphia Phillies,22,5.1,10.1,9.8,16.9,17.5,20.4
-2006,Pittsburgh Pirates,19,3.8,9.9,7,15.8,15.8,17.4
+2006,Pittsburgh Pirates,19,3.8,9.9,7.0,15.8,15.8,17.4
 2006,San Diego Padres,28,5.2,-1.4,-0.4,1.7,7.6,6.2
 2006,San Francisco Giants,18,4.1,7.3,10.1,14.7,9.1,12.4
-2006,Seattle Mariners,27,3.4,5.6,3,9.7,5,6.2
+2006,Seattle Mariners,27,3.4,5.6,3.0,9.7,5.0,6.2
 2006,St. Louis Cardinals,21,3.4,9.2,6.5,11.3,9.4,4.7
 2006,Tampa Bay Devil Rays,10,2.7,4.3,10.6,8.7,11.5,7.6
-2006,Texas Rangers,16,1.5,4.3,15,12.4,13.4,15.8
-2006,Toronto Blue Jays,25,2.4,5.9,6.4,8.1,7.3,12
+2006,Texas Rangers,16,1.5,4.3,15.0,12.4,13.4,15.8
+2006,Toronto Blue Jays,25,2.4,5.9,6.4,8.1,7.3,12.0
 2006,Washington Nationals,24,4.1,8.7,5.4,6.2,7.6,3.5
-2007,Arizona Diamondbacks,3,3.9,10.9,22.4,21.6,29.9,20
+2007,Arizona Diamondbacks,3,3.9,10.9,22.4,21.6,29.9,20.0
 2007,Atlanta Braves,16,0.1,3.4,11.2,10.3,18.7,14.2
-2007,Baltimore Orioles,17,1.5,1.6,-0.2,-1.11022E-16,2.9,2.4
+2007,Baltimore Orioles,17,1.5,1.6,-0.2,0.0,2.9,2.4
 2007,Boston Red Sox,9,10.4,18.9,11.5,16.5,25.5,16.5
 2007,Chicago Cubs,18,0.4,6.5,3.1,3.5,2.4,7.5
-2007,Chicago White Sox,26,0.6,1.5,3.6,4,6.1,11.4
+2007,Chicago White Sox,26,0.6,1.5,3.6,4.0,6.1,11.4
 2007,Cincinnati Reds,12,4.7,9.5,13.4,30.8,20.2,21.9
-2007,Cleveland Indians,10,4.8,6.9,5.2,0.5,7,3.1
-2007,Colorado Rockies,2,9.1,5.5,19.2,13.8,10.9,8
+2007,Cleveland Indians,10,4.8,6.9,5.2,0.5,7.0,3.1
+2007,Colorado Rockies,2,9.1,5.5,19.2,13.8,10.9,8.0
 2007,Detroit Tigers,14,-0.4,5.2,8.8,5.4,13.6,1.6
-2007,Florida Marlins,15,1,1.2,4.2,3.2,4.7,-2.6
+2007,Florida Marlins,15,1.0,1.2,4.2,3.2,4.7,-2.6
 2007,Houston Astros,22,4.1,4.2,5.1,5.6,10.3,5.1
-2007,Kansas City Royals,11,6.8,4.6,7.7,4.1,12,8.7
+2007,Kansas City Royals,11,6.8,4.6,7.7,4.1,12.0,8.7
 2007,Los Angeles Angels of Anaheim,4,0.7,3.6,3.4,5.2,11.4,11.1
-2007,Los Angeles Dodgers,6,3.2,0.2,7.3,3.4,8,5.8
+2007,Los Angeles Dodgers,6,3.2,0.2,7.3,3.4,8.0,5.8
 2007,Milwaukee Brewers,5,7.1,8.1,12.7,13.2,13.8,13.9
-2007,Minnesota Twins,8,1.6,10.2,8.6,9,9.9,7.8
-2007,New York Mets,13,0.8,6.3,3.7,5,11.9,7.2
-2007,New York Yankees,7,1.3,4.8,6.7,18.9,17,13.3
-2007,Oakland Athletics,27,4.5,4.8,6.9,13,5,3.7
+2007,Minnesota Twins,8,1.6,10.2,8.6,9.0,9.9,7.8
+2007,New York Mets,13,0.8,6.3,3.7,5.0,11.9,7.2
+2007,New York Yankees,7,1.3,4.8,6.7,18.9,17.0,13.3
+2007,Oakland Athletics,27,4.5,4.8,6.9,13.0,5.0,3.7
 2007,Philadelphia Phillies,21,3.1,1.1,8.2,7.6,7.4,11.5
 2007,Pittsburgh Pirates,19,-0.1,-0.9,5.5,5.8,8.1,9.9
 2007,San Diego Padres,29,3.1,1.1,6.5,11.5,10.7,14.7
-2007,San Francisco Giants,20,4.2,13.4,14.1,9,4.9,0.8
+2007,San Francisco Giants,20,4.2,13.4,14.1,9.0,4.9,0.8
 2007,Seattle Mariners,24,0.9,-0.4,2.2,1.3,5.8,12.7
-2007,St. Louis Cardinals,23,1.2,1,6.2,9.2,10.7,12.5
-2007,Tampa Bay Devil Rays,1,4.3,14.2,13.4,17,11.7,13.6
-2007,Texas Rangers,28,1.7,10.9,4.7,5,3.1,2.7
-2007,Toronto Blue Jays,25,0.4,3.6,6.9,5.2,8.3,1
-2007,Washington Nationals,30,1,1.4,4.8,3.3,1.8,9.4
+2007,St. Louis Cardinals,23,1.2,1.0,6.2,9.2,10.7,12.5
+2007,Tampa Bay Devil Rays,1,4.3,14.2,13.4,17.0,11.7,13.6
+2007,Texas Rangers,28,1.7,10.9,4.7,5.0,3.1,2.7
+2007,Toronto Blue Jays,25,0.4,3.6,6.9,5.2,8.3,1.0
+2007,Washington Nationals,30,1.0,1.4,4.8,3.3,1.8,9.4
 2008,Arizona Diamondbacks,15,1.8,7.5,13.3,11.1,15.9,14.3
 2008,Atlanta Braves,8,4.3,3.7,9.6,6.5,10.3,15.2
-2008,Baltimore Orioles,16,1.8,2.4,5,11.6,12,1.8
+2008,Baltimore Orioles,16,1.8,2.4,5.0,11.6,12.0,1.8
 2008,Boston Red Sox,2,6.9,4.1,7.7,18.2,13.9,21.3
 2008,Chicago Cubs,20,3.8,2.3,3.3,5.1,9.5,10.8
 2008,Chicago White Sox,28,1.6,5.3,4.9,4.1,8.6,2.8
-2008,Cincinnati Reds,3,5.9,13,24.9,16.9,22.9,24.2
-2008,Cleveland Indians,19,2,2.9,-0.7,-0.1,-1.2,-1.5
-2008,Colorado Rockies,7,0,5.9,5.6,3.3,9.8,7.8
-2008,Detroit Tigers,29,1.4,3.3,4,8.8,5.5,5.5
-2008,Florida Marlins,14,1.7,5.4,8,12.5,3.7,3.7
+2008,Cincinnati Reds,3,5.9,13.0,24.9,16.9,22.9,24.2
+2008,Cleveland Indians,19,2.0,2.9,-0.7,-0.1,-1.2,-1.5
+2008,Colorado Rockies,7,0.0,5.9,5.6,3.3,9.8,7.8
+2008,Detroit Tigers,29,1.4,3.3,4.0,8.8,5.5,5.5
+2008,Florida Marlins,14,1.7,5.4,8.0,12.5,3.7,3.7
 2008,Houston Astros,30,-1.1,5.5,6.7,8.7,9.1,8.8
-2008,Kansas City Royals,24,5,0.5,3,3.3,6,3.7
-2008,Los Angeles Angels of Anaheim,10,0.6,0.1,2.6,9,6.1,6.8
-2008,Los Angeles Dodgers,6,1.4,6.5,4.7,7.3,8.3,9
-2008,Milwaukee Brewers,21,2.9,1.2,4.6,8.2,13,13.3
+2008,Kansas City Royals,24,5.0,0.5,3.0,3.3,6.0,3.7
+2008,Los Angeles Angels of Anaheim,10,0.6,0.1,2.6,9.0,6.1,6.8
+2008,Los Angeles Dodgers,6,1.4,6.5,4.7,7.3,8.3,9.0
+2008,Milwaukee Brewers,21,2.9,1.2,4.6,8.2,13.0,13.3
 2008,Minnesota Twins,18,4.8,7.7,6.1,10.5,7.6,10.8
-2008,New York Mets,17,3.5,2.6,2.3,16,9.6,17.8
-2008,New York Yankees,5,4.2,6,18.1,18.8,11,15.4
-2008,Oakland Athletics,27,0.5,5.9,11.6,3.7,5,2.7
+2008,New York Mets,17,3.5,2.6,2.3,16.0,9.6,17.8
+2008,New York Yankees,5,4.2,6.0,18.1,18.8,11.0,15.4
+2008,Oakland Athletics,27,0.5,5.9,11.6,3.7,5.0,2.7
 2008,Philadelphia Phillies,22,0.8,1.1,-1.6,2.3,1.9,5.3
-2008,Pittsburgh Pirates,26,-0.5,8,7.2,11,10.1,12.1
-2008,San Diego Padres,12,0,4.4,14.2,17.3,17.3,15.4
-2008,San Francisco Giants,23,0.7,1.6,4,6.8,3.3,5.8
+2008,Pittsburgh Pirates,26,-0.5,8.0,7.2,11.0,10.1,12.1
+2008,San Diego Padres,12,0.0,4.4,14.2,17.3,17.3,15.4
+2008,San Francisco Giants,23,0.7,1.6,4.0,6.8,3.3,5.8
 2008,Seattle Mariners,11,-1.5,1.9,-7.4,-0.3,3.4,2.2
 2008,St. Louis Cardinals,13,1.5,4.7,7.8,8.9,12.9,8.5
-2008,Tampa Bay Rays,1,6.3,12,18.6,17.6,20.1,19.1
+2008,Tampa Bay Rays,1,6.3,12.0,18.6,17.6,20.1,19.1
 2008,Texas Rangers,4,5.2,8.7,6.3,11.7,14.5,10.2
 2008,Toronto Blue Jays,25,1.6,5.8,10.2,2.1,0.2,0.9
 2008,Washington Nationals,9,0.7,6.3,2.5,6.1,14.1,12.6
 2009,Arizona Diamondbacks,26,0.4,0.3,2.4,9.8,5.2,3.9
-2009,Atlanta Braves,6,1.9,9.4,5.8,16.2,19,15.2
+2009,Atlanta Braves,6,1.9,9.4,5.8,16.2,19.0,15.2
 2009,Baltimore Orioles,9,4.1,6.5,9.9,12.7,4.3,14.3
-2009,Boston Red Sox,13,0.3,1,2.3,6.9,7.8,6.3
-2009,Chicago Cubs,27,0.6,1.4,3,8,8.8,12.8
+2009,Boston Red Sox,13,0.3,1.0,2.3,6.9,7.8,6.3
+2009,Chicago Cubs,27,0.6,1.4,3.0,8.0,8.8,12.8
 2009,Chicago White Sox,16,4.3,6.6,9.9,3.7,0.7,3.4
-2009,Cincinnati Reds,14,6.7,9.6,8.1,12,5.6,16.9
+2009,Cincinnati Reds,14,6.7,9.6,8.1,12.0,5.6,16.9
 2009,Cleveland Indians,7,1.2,-2.2,3.8,4.4,5.3,18.7
 2009,Colorado Rockies,20,3.3,5.3,2.7,8.8,8.7,7.9
 2009,Detroit Tigers,28,4.3,4.4,9.7,6.6,2.9,5.8
 2009,Florida Marlins,2,4.9,5.4,12.3,2.7,3.7,8.9
-2009,Houston Astros,30,0.3,3.5,6.1,3.8,11.1,5
-2009,Kansas City Royals,11,0.1,0.3,2.6,4,10.1,6.7
-2009,Los Angeles Angels of Anaheim,25,0.6,3.4,6.1,8,10.5,5.2
-2009,Los Angeles Dodgers,23,-2.77556E-17,-0.4,1.3,1.9,1.1,6.3
+2009,Houston Astros,30,0.3,3.5,6.1,3.8,11.1,5.0
+2009,Kansas City Royals,11,0.1,0.3,2.6,4.0,10.1,6.7
+2009,Los Angeles Angels of Anaheim,25,0.6,3.4,6.1,8.0,10.5,5.2
+2009,Los Angeles Dodgers,23,0.0,-0.4,1.3,1.9,1.1,6.3
 2009,Milwaukee Brewers,10,0.6,5.3,10.2,12.5,13.2,20.3
-2009,Minnesota Twins,22,0.9,4.4,9,2.2,6.5,7.4
+2009,Minnesota Twins,22,0.9,4.4,9.0,2.2,6.5,7.4
 2009,New York Mets,17,1.3,7.5,7.6,9.7,7.1,10.4
 2009,New York Yankees,15,5.1,13.9,15.1,8.5,11.4,15.3
-2009,Oakland Athletics,3,9.3,12,11.2,12.7,16.2,19.8
-2009,Philadelphia Phillies,12,0.8,0.5,6.8,4.4,4.6,12
-2009,Pittsburgh Pirates,18,2.3,8,6.7,12.8,14.7,12.7
+2009,Oakland Athletics,3,9.3,12.0,11.2,12.7,16.2,19.8
+2009,Philadelphia Phillies,12,0.8,0.5,6.8,4.4,4.6,12.0
+2009,Pittsburgh Pirates,18,2.3,8.0,6.7,12.8,14.7,12.7
 2009,San Diego Padres,29,2.2,7.5,9.6,11.5,15.2,1.3
-2009,San Francisco Giants,5,1.2,7,9.8,12.2,11.2,13.1
+2009,San Francisco Giants,5,1.2,7.0,9.8,12.2,11.2,13.1
 2009,Seattle Mariners,24,-1.3,-5.1,2.2,2.3,2.4,3.2
-2009,St. Louis Cardinals,8,4.2,10.8,13.1,20.9,13,8.1
-2009,Tampa Bay Rays,4,4.9,11.3,11.3,18,14,17.7
+2009,St. Louis Cardinals,8,4.2,10.8,13.1,20.9,13.0,8.1
+2009,Tampa Bay Rays,4,4.9,11.3,11.3,18.0,14.0,17.7
 2009,Texas Rangers,1,7.9,5.7,11.6,7.2,10.3,4.3
 2009,Toronto Blue Jays,19,3.8,7.4,2.8,1.9,5.9,5.5
 2009,Washington Nationals,21,6.2,1.9,8.6,19.1,13.3,10.6
@@ -274,86 +274,86 @@ YearID,TeamName,TeamRank,WARYearOne,WARYearTwo,WARYearThree,WARYearFour,WARYearF
 2010,Baltimore Orioles,9,3.1,-0.4,3.6,2.5,7.6,12.7
 2010,Boston Red Sox,6,-0.3,0.6,7.5,10.7,5.9,11.5
 2010,Chicago Cubs,15,3.4,4.6,6.1,6.3,13.1,10.1
-2010,Chicago White Sox,19,3.9,8.4,5.6,2,2.9,7.3
+2010,Chicago White Sox,19,3.9,8.4,5.6,2.0,2.9,7.3
 2010,Cincinnati Reds,23,5.3,4.5,9.3,12.4,20.6,14.1
 2010,Cleveland Indians,3,1.2,3.9,5.6,9.5,17.5,19.1
 2010,Colorado Rockies,10,2.7,2.5,6.3,10.3,5.8,5.5
-2010,Detroit Tigers,26,6,10.7,9.6,3.1,3.8,0.7
-2010,Florida Marlins,8,5,8.2,2,6.3,10.8,5.6
-2010,Houston Astros,30,0.5,1.9,2.6,11,7.7,8
+2010,Detroit Tigers,26,6.0,10.7,9.6,3.1,3.8,0.7
+2010,Florida Marlins,8,5.0,8.2,2.0,6.3,10.8,5.6
+2010,Houston Astros,30,0.5,1.9,2.6,11.0,7.7,8.0
 2010,Kansas City Royals,17,-0.3,2.5,5.3,12.9,4.3,13.1
 2010,Los Angeles Angels of Anaheim,25,3.8,6.8,18.1,27.5,19.5,20.3
-2010,Los Angeles Dodgers,24,2.77556E-17,3.3,1.5,3.9,11.4,10.3
-2010,Milwaukee Brewers,14,7.6,11.4,13,12.8,20.1,14.1
+2010,Los Angeles Dodgers,24,0.0,3.3,1.5,3.9,11.4,10.3
+2010,Milwaukee Brewers,14,7.6,11.4,13.0,12.8,20.1,14.1
 2010,Minnesota Twins,7,1.8,4.6,1.9,4.4,14.4,12.5
-2010,New York Mets,22,6,6,8.8,2.9,8,5.5
+2010,New York Mets,22,6.0,6.0,8.8,2.9,8.0,5.5
 2010,New York Yankees,18,0.6,2.9,1.7,6.4,8.9,10.4
 2010,Oakland Athletics,12,-0.8,1.3,2.5,10.4,12.5,14.3
-2010,Philadelphia Phillies,5,5.55112E-17,3,2.9,3.2,6.4,8.4
+2010,Philadelphia Phillies,5,0.0,3.0,2.9,3.2,6.4,8.4
 2010,Pittsburgh Pirates,16,4.4,2.3,5.8,11.8,17.8,11.2
 2010,San Diego Padres,20,0.5,2.5,3.9,0.4,-0.5,4.9
-2010,San Francisco Giants,4,6,8.1,15,13.6,18.1,15.4
+2010,San Francisco Giants,4,6.0,8.1,15.0,13.6,18.1,15.4
 2010,Seattle Mariners,11,-2.6,7.2,8.5,8.5,10.9,6.4
-2010,St. Louis Cardinals,29,3.6,11,16.8,11.4,9.5,9.9
-2010,Tampa Bay Rays,1,3.3,6.1,10.9,11,11.4,6.9
+2010,St. Louis Cardinals,29,3.6,11.0,16.8,11.4,9.5,9.9
+2010,Tampa Bay Rays,1,3.3,6.1,10.9,11.0,11.4,6.9
 2010,Texas Rangers,2,1.7,6.1,6.2,6.6,-0.3,3.2
-2010,Toronto Blue Jays,28,0,-1.94289E-16,-0.6,6,1.7,3.9
+2010,Toronto Blue Jays,28,0.0,0.0,-0.6,6.0,1.7,3.9
 2010,Washington Nationals,21,4.4,6.1,19.4,11.2,9.5,13.3
-2011,Arizona Diamondbacks,22,1.3,11.8,15.6,15.5,20.7,18
+2011,Arizona Diamondbacks,22,1.3,11.8,15.6,15.5,20.7,18.0
 2011,Atlanta Braves,2,6.1,8.9,19.3,13.2,10.5,11.6
 2011,Baltimore Orioles,21,1.6,1.9,6.3,4.6,12.7,11.8
 2011,Boston Red Sox,17,1.5,5.4,9.6,0.9,10.5,8.3
 2011,Chicago Cubs,8,0.7,0.3,3.9,7.9,9.7,11.3
-2011,Chicago White Sox,27,3.2,10.7,7.1,8.4,14,13.9
-2011,Cincinnati Reds,6,3,15,8.9,20,18.2,18.3
+2011,Chicago White Sox,27,3.2,10.7,7.1,8.4,14.0,13.9
+2011,Cincinnati Reds,6,3.0,15.0,8.9,20.0,18.2,18.3
 2011,Cleveland Indians,7,0.4,5.9,7.6,14.1,14.3,16.4
-2011,Colorado Rockies,10,-0.3,2.1,6,5.7,7.5,14.3
-2011,Detroit Tigers,25,0.7,6.6,0.1,2.4,0.7,5
-2011,Florida Marlins,29,0.9,-1.8,7.1,12.1,5.9,14
+2011,Colorado Rockies,10,-0.3,2.1,6.0,5.7,7.5,14.3
+2011,Detroit Tigers,25,0.7,6.6,0.1,2.4,0.7,5.0
+2011,Florida Marlins,29,0.9,-1.8,7.1,12.1,5.9,14.0
 2011,Houston Astros,26,3.5,0.8,2.2,15.2,18.1,17.1
 2011,Kansas City Royals,1,2.5,7.6,14.9,9.8,17.9,14.2
 2011,Los Angeles Angels of Anaheim,16,2.9,13.2,22.6,15.9,16.8,22.4
-2011,Los Angeles Dodgers,12,4.3,1.2,3,9.3,13.4,8.7
-2011,Milwaukee Brewers,30,0,0.7,5.8,4.8,4.4,6.1
-2011,Minnesota Twins,13,1.5,4.4,5,18,17,9.3
+2011,Los Angeles Dodgers,12,4.3,1.2,3.0,9.3,13.4,8.7
+2011,Milwaukee Brewers,30,0.0,0.7,5.8,4.8,4.4,6.1
+2011,Minnesota Twins,13,1.5,4.4,5.0,18.0,17.0,9.3
 2011,New York Mets,20,0.7,3.1,8.5,7.9,12.3,8.9
 2011,New York Yankees,5,1.6,0.1,1.1,5.2,7.7,12.2
 2011,Oakland Athletics,28,1.3,3.4,13.4,11.5,13.8,9.2
 2011,Philadelphia Phillies,11,3.2,3.1,3.5,0.6,7.6,7.7
-2011,Pittsburgh Pirates,19,1.4,1.1,6,11.3,7.4,9.3
+2011,Pittsburgh Pirates,19,1.4,1.1,6.0,11.3,7.4,9.3
 2011,San Diego Padres,9,2.1,5.6,3.2,3.7,11.2,10.5
 2011,San Francisco Giants,23,1.5,2.8,7.8,4.8,7.2,11.1
-2011,Seattle Mariners,18,7.9,9.1,7,9,12,7.8
+2011,Seattle Mariners,18,7.9,9.1,7.0,9.0,12.0,7.8
 2011,St. Louis Cardinals,24,4.2,8.3,15.6,7.6,14.1,7.3
 2011,Tampa Bay Rays,3,5.7,9.6,11.2,13.1,11.8,13.4
 2011,Texas Rangers,15,-0.2,1.2,3.5,0.3,0.4,2.4
 2011,Toronto Blue Jays,4,2.6,1.9,3.4,11.4,15.3,13.4
 2011,Washington Nationals,14,7.4,12.1,7.6,5.1,17.6,12.6
-2012,Arizona Diamondbacks,4,5,7,11.3,14.9,16.8,12.4
+2012,Arizona Diamondbacks,4,5.0,7.0,11.3,14.9,16.8,12.4
 2012,Atlanta Braves,15,2.6,9.4,6.6,6.9,9.2,10.5
-2012,Baltimore Orioles,20,0.6,6.2,2.7,9.6,11,13.3
-2012,Boston Red Sox,10,1.1,6.4,0.6,9.7,13,10.8
-2012,Chicago Cubs,14,-2.4,2,-0.7,0.9,3.1,5.1
+2012,Baltimore Orioles,20,0.6,6.2,2.7,9.6,11.0,13.3
+2012,Boston Red Sox,10,1.1,6.4,0.6,9.7,13.0,10.8
+2012,Chicago Cubs,14,-2.4,2.0,-0.7,0.9,3.1,5.1
 2012,Chicago White Sox,30,1.5,2.9,2.5,5.9,5.7,5.8
 2012,Cincinnati Reds,7,10.3,8.3,15.9,16.3,15.9,20.8
-2012,Cleveland Indians,29,1.9,1,3.8,7.2,8.5,8
+2012,Cleveland Indians,29,1.9,1.0,3.8,7.2,8.5,8.0
 2012,Colorado Rockies,16,2.5,1.4,4.6,10.4,23.5,18.7
-2012,Detroit Tigers,22,2.6,-1,4,1.1,7.9,10.2
+2012,Detroit Tigers,22,2.6,-1.0,4.0,1.1,7.9,10.2
 2012,Houston Astros,17,-1.6,1.6,8.4,14.9,12.6,17.7
-2012,Kansas City Royals,3,1.9,5.3,8,10.4,10.9,1.7
+2012,Kansas City Royals,3,1.9,5.3,8.0,10.4,10.9,1.7
 2012,Los Angeles Angels of Anaheim,18,10.5,16.1,18.1,18.9,27.1,16.6
 2012,Los Angeles Dodgers,23,-0.4,1.1,5.1,7.3,2.6,0.1
-2012,Miami Marlins,28,-1.1,10.2,12.6,11.8,21,12.5
+2012,Miami Marlins,28,-1.1,10.2,12.6,11.8,21.0,12.5
 2012,Milwaukee Brewers,25,5.5,5.4,7.4,7.6,7.4,13.8
 2012,Minnesota Twins,19,-1.1,3.1,7.8,12.5,12.5,17.1
 2012,New York Mets,24,1.3,10.5,9.8,8.3,7.8,6.1
-2012,New York Yankees,6,-1.1,-1.2,5.3,7.5,6,6.6
-2012,Oakland Athletics,26,8.8,14.1,10.8,13,10.5,9.5
+2012,New York Yankees,6,-1.1,-1.2,5.3,7.5,6.0,6.6
+2012,Oakland Athletics,26,8.8,14.1,10.8,13.0,10.5,9.5
 2012,Philadelphia Phillies,27,0.6,0.2,-0.1,8.6,8.6,6.7
 2012,Pittsburgh Pirates,13,0.1,8.2,8.3,11.2,8.4,9.7
 2012,San Diego Padres,8,1.3,3.8,3.2,11.8,10.3,10.5
 2012,San Francisco Giants,21,-0.7,0.5,1.4,3.7,5.4,3.9
-2012,Seattle Mariners,9,3,3.7,2.9,7,6.2,8.9
+2012,Seattle Mariners,9,3.0,3.7,2.9,7.0,6.2,8.9
 2012,St. Louis Cardinals,12,4.7,16.6,13.2,20.2,8.2,14.4
 2012,Tampa Bay Rays,11,2.3,5.2,6.4,13.6,12.9,18.3
 2012,Texas Rangers,2,0.9,5.9,3.5,6.7,11.9,3.5
@@ -361,61 +361,61 @@ YearID,TeamName,TeamRank,WARYearOne,WARYearTwo,WARYearThree,WARYearFour,WARYearF
 2012,Washington Nationals,1,9.3,7.6,9.5,15.8,14.8,22.9
 2013,Arizona Diamondbacks,7,2.2,10.2,14.5,16.6,13.4,15.6
 2013,Atlanta Braves,21,6.4,7.2,3.9,7.8,5.9,6.2
-2013,Baltimore Orioles,17,0.4,2.8,5,10.4,17.5,9
-2013,Boston Red Sox,6,3,2.2,10.3,14.7,16.6,17.3
-2013,Chicago Cubs,13,1.2,-0.3,1,3.9,4.4,11.1
+2013,Baltimore Orioles,17,0.4,2.8,5.0,10.4,17.5,9.0
+2013,Boston Red Sox,6,3.0,2.2,10.3,14.7,16.6,17.3
+2013,Chicago Cubs,13,1.2,-0.3,1.0,3.9,4.4,11.1
 2013,Chicago White Sox,29,-0.9,-0.1,4.7,2.3,1.3,4.4
 2013,Cincinnati Reds,14,3.4,1.4,4.3,4.8,6.9,8.4
-2013,Cleveland Indians,24,6,8.4,12.3,17,17.5,20.9
-2013,Colorado Rockies,20,1.6,5.7,5.5,14,10,14.7
+2013,Cleveland Indians,24,6.0,8.4,12.3,17.0,17.5,20.9
+2013,Colorado Rockies,20,1.6,5.7,5.5,14.0,10.0,14.7
 2013,Detroit Tigers,27,-0.4,-0.2,2.5,4.1,9.8,8.1
-2013,Houston Astros,9,0.3,6.5,15.4,19.1,21.2,17
+2013,Houston Astros,9,0.3,6.5,15.4,19.1,21.2,17.0
 2013,Kansas City Royals,18,1.8,4.3,2.8,1.8,-0.1,3.3
 2013,Los Angeles Angels of Anaheim,30,1.2,2.5,6.2,7.3,6.8,9.6
 2013,Los Angeles Dodgers,19,8.7,11.8,7.1,10.8,9.9,8.6
 2013,Miami Marlins,5,5.5,12.9,15.4,23.8,21.1,21.8
 2013,Milwaukee Brewers,22,4.3,4.6,4.6,4.6,13.2,10.6
 2013,Minnesota Twins,10,0.6,7.8,8.4,6.4,18.1,20.3
-2013,New York Mets,26,-0.5,12.1,14.9,14.7,12.7,25
+2013,New York Mets,26,-0.5,12.1,14.9,14.7,12.7,25.0
 2013,New York Yankees,11,-0.3,4.5,6.6,3.7,7.2,5.5
-2013,Oakland Athletics,25,2.7,0.7,6,3.7,11.7,18.3
-2013,Philadelphia Phillies,23,1.8,1.6,6.5,8.2,4,3.2
+2013,Oakland Athletics,25,2.7,0.7,6.0,3.7,11.7,18.3
+2013,Philadelphia Phillies,23,1.8,1.6,6.5,8.2,4.0,3.2
 2013,Pittsburgh Pirates,8,2.4,6.1,12.3,6.8,6.6,15.5
 2013,San Diego Padres,15,2.2,-0.5,6.2,7.8,6.4,15.7
 2013,San Francisco Giants,28,0.3,0.6,4.7,2.3,5.5,2.8
-2013,Seattle Mariners,2,5,7.3,6.2,10.8,19.2,11
+2013,Seattle Mariners,2,5.0,7.3,6.2,10.8,19.2,11.0
 2013,St. Louis Cardinals,1,7.8,8.4,16.1,7.6,11.6,9.4
 2013,Tampa Bay Rays,4,3.8,5.6,15.6,12.9,19.4,14.7
-2013,Texas Rangers,3,5.3,5.4,6.3,6.4,5,15.4
-2013,Toronto Blue Jays,12,2.77556E-17,7.2,12.9,19.7,12.6,9
-2013,Washington Nationals,16,1,5.7,7.2,11.5,18.6,8.3
-2014,Arizona Diamondbacks,13,0.1,2,4.1,7.7,4.1,3.1
-2014,Atlanta Braves,26,-0.5,-1,1.1,1.8,4.1,4
-2014,Baltimore Orioles,12,2,5.7,11.9,18.9,7.6,18.5
+2013,Texas Rangers,3,5.3,5.4,6.3,6.4,5.0,15.4
+2013,Toronto Blue Jays,12,0.0,7.2,12.9,19.7,12.6,9.0
+2013,Washington Nationals,16,1.0,5.7,7.2,11.5,18.6,8.3
+2014,Arizona Diamondbacks,13,0.1,2.0,4.1,7.7,4.1,3.1
+2014,Atlanta Braves,26,-0.5,-1.0,1.1,1.8,4.1,4.0
+2014,Baltimore Orioles,12,2.0,5.7,11.9,18.9,7.6,18.5
 2014,Boston Red Sox,2,4.1,13.3,21.1,21.9,24.3,27.2
-2014,Chicago Cubs,4,2,9.3,16.9,13.9,19.9,23.2
-2014,Chicago White Sox,24,5.2,7.7,5.2,4.8,8.4,21
-2014,Cincinnati Reds,16,2.2,1.5,2.7,4.8,3.7,6
-2014,Cleveland Indians,17,2,7.7,17,15.3,28.1,15.2
-2014,Colorado Rockies,11,-0.5,-0.2,12,6.9,13.3,13.5
-2014,Detroit Tigers,28,0.6,4,6.3,9.3,10.2,11.7
-2014,Houston Astros,5,0.4,13.9,17.3,22.6,20.4,16
-2014,Kansas City Royals,8,3.2,2.5,3,1.5,4.3,6.1
+2014,Chicago Cubs,4,2.0,9.3,16.9,13.9,19.9,23.2
+2014,Chicago White Sox,24,5.2,7.7,5.2,4.8,8.4,21.0
+2014,Cincinnati Reds,16,2.2,1.5,2.7,4.8,3.7,6.0
+2014,Cleveland Indians,17,2.0,7.7,17.0,15.3,28.1,15.2
+2014,Colorado Rockies,11,-0.5,-0.2,12.0,6.9,13.3,13.5
+2014,Detroit Tigers,28,0.6,4.0,6.3,9.3,10.2,11.7
+2014,Houston Astros,5,0.4,13.9,17.3,22.6,20.4,16.0
+2014,Kansas City Royals,8,3.2,2.5,3.0,1.5,4.3,6.1
 2014,Los Angeles Angels of Anaheim,30,0.2,0.1,3.9,3.1,7.4,4.2
-2014,Los Angeles Dodgers,14,-0.2,6.2,13.1,12.4,10,18.4
-2014,Miami Marlins,27,0.4,10.6,7.6,8.9,16.7,17
+2014,Los Angeles Dodgers,14,-0.2,6.2,13.1,12.4,10.0,18.4
+2014,Miami Marlins,27,0.4,10.6,7.6,8.9,16.7,17.0
 2014,Milwaukee Brewers,29,0.6,5.2,-0.9,9.5,4.3,-1.5
 2014,Minnesota Twins,3,4.3,4.6,5.7,14.1,14.5,26.9
 2014,New York Mets,10,9.1,17.4,18.6,13.9,22.3,21.6
 2014,New York Yankees,18,4.8,6.1,5.6,16.7,18.8,7.7
-2014,Oakland Athletics,23,-2,2,2.8,2.8,15.3,10.1
-2014,Philadelphia Phillies,22,0.5,7.9,10,5,3.5,3.3
-2014,Pittsburgh Pirates,1,0.7,1.9,2.8,2.1,9.4,10
-2014,San Diego Padres,6,-0.5,5.2,7,3.2,6.5,10.4
+2014,Oakland Athletics,23,-2.0,2.0,2.8,2.8,15.3,10.1
+2014,Philadelphia Phillies,22,0.5,7.9,10.0,5.0,3.5,3.3
+2014,Pittsburgh Pirates,1,0.7,1.9,2.8,2.1,9.4,10.0
+2014,San Diego Padres,6,-0.5,5.2,7.0,3.2,6.5,10.4
 2014,San Francisco Giants,19,1.1,3.3,2.1,4.5,3.2,-0.5
 2014,Seattle Mariners,25,2.2,4.9,5.1,16.2,14.1,13.7
 2014,St. Louis Cardinals,7,2.7,12.6,10.4,14.5,17.7,17.2
-2014,Tampa Bay Rays,20,5.3,14.4,10.7,15.6,14.1,13
+2014,Tampa Bay Rays,20,5.3,14.4,10.7,15.6,14.1,13.0
 2014,Texas Rangers,9,2.2,3.4,3.6,3.7,12.7,5.5
-2014,Toronto Blue Jays,15,3.8,7.5,10.9,9,6,7.8
-2014,Washington Nationals,21,-0.4,8.3,6.3,14,6.6,10.3
+2014,Toronto Blue Jays,15,3.8,7.5,10.9,9.0,6.0,7.8
+2014,Washington Nationals,21,-0.4,8.3,6.3,14.0,6.6,10.3
