@@ -27,7 +27,15 @@ rank_data[is.na(rank_data)] <- 0.0
 rank_data$TotalWAR <- round(rank_data$WARYearOne + rank_data$WARYearTwo + rank_data$WARYearThree +
   rank_data$WARYearFour + rank_data$WARYearFive + rank_data$WARYearSix, 1)
 
-#Find median value for each ranking combo
+#Find summary stats for player rank in organization
+
+summary_position <- rank_data %>%
+  group_by(OrgRank)%>%
+  summarize(AverageWAR = round(mean(TotalWAR), 1),
+            MedianWAR = round(median(TotalWAR), 1),
+            MaxWAR = round(max(TotalWAR), 1)) 
+
+#Find summary stats for each ranking combo
 
 summary_war_table <- rank_data %>%
   group_by(FranchRank, OrgRank) %>%
@@ -35,6 +43,16 @@ summary_war_table <- rank_data %>%
             MedianWAR = round(median(TotalWAR), 1),
             MaxWAR = round(max(TotalWAR), 1)) %>%
   ungroup()
+
+#Creating a visual for average WAR by rank in organization alone
+
+summary_position %>%
+  ggplot(aes(x = OrgRank, y = AverageWAR)) +
+  geom_point(size = 1.5, color = "red") +
+  geom_line(color = "red") +
+  scale_x_continuous(breaks = seq(1, 30, 1)) +
+  scale_y_continuous(breaks = seq(0, 10, 0.5)) +
+  labs(title = "Average WAR by Ranking in Organization", x = "Player Rank in Organization", y = "Average WAR")
 
 #Create heat map for Average WAR
 
@@ -77,3 +95,12 @@ summary_war_table %>%
        x = "Organization's Rank in MLB",
        y = "Player Rank in Organization",
        fill = "Maximum WAR")
+
+#Double digit ranked prospects who produced
+
+unheralded_prospect_stars <- rank_data %>%
+  filter(OrgRank >= 11 & TotalWAR >= 10)
+
+#List of distinct unhearlded prospects who produced
+
+unheralded_prospect_stars_list <- unheralded_prospect_stars[!duplicated(unheralded_prospect_stars$PlayerID),]
