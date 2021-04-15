@@ -101,6 +101,54 @@ summary_war_table %>%
 unheralded_prospect_stars <- rank_data %>%
   filter(OrgRank >= 11 & TotalWAR >= 10)
 
-#List of distinct unhearlded prospects who produced
+#List of distinct unheralded prospects who produced
 
 unheralded_prospect_stars_list <- unheralded_prospect_stars[!duplicated(unheralded_prospect_stars$PlayerID),]
+
+#Breakdown of amateur background
+
+table(unheralded_prospect_stars_list$AmateurType)
+
+prop.table(table(unheralded_prospect_stars_list$AmateurType)) * 100
+
+#Breakdown by player's level
+
+table(unheralded_prospect_stars$HighestLevel)
+
+prop.table(table(unheralded_prospect_stars$HighestLevel)) * 100
+
+#Import table for visual
+
+visual_list <- read.csv(file = "C:/Users/daily/Desktop/Repositories/Baseball-America-Analysis/Csvs/Unheralded Players with Position.csv")
+
+#Create vector for level order
+
+visual_list$Highest.Level.Played <- factor(visual_list$Highest.Level.Played, levels = c("MLB", "AAA", "AA", "A+", "A", "A-", "Rk"))
+
+#Create visual using list
+
+visual_list %>%
+  ggplot(aes(x = Highest.Level.Played, fill = Amateur.Type)) +
+  geom_bar(position = "dodge", color = "black") +
+  scale_fill_brewer(palette = "Set1") +
+  scale_y_continuous(breaks = seq(0,15,1)) +
+  labs(title = "Amount of Times a Player Accumulated Over 10 WAR",
+       x = "Highest Level Played", 
+       y = "Number of Occurrences", 
+       fill = "Amateur Type") +
+  facet_wrap(~Position)
+
+#Seeing how many unheralded prospects from each amateur type
+
+unheralded_prospects <- rank_data %>%
+  filter(OrgRank >= 11)
+
+#List of distinct unheralded prospects
+
+unheralded_prospects_list <- unheralded_prospects[!duplicated(unheralded_prospects$PlayerID),]
+
+#Breakdown of amateur background
+
+table(unheralded_prospects_list$AmateurType)
+
+prop.table(table(unheralded_prospects_list$AmateurType)) * 100
